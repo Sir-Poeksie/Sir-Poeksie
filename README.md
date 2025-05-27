@@ -12,18 +12,18 @@ Bridging code & consciousness through human-first, creative soul-aware systems f
 
 💻 Projects:  
 • NIAP App – Youth Mental Health & AI-powered healing detection  
-<!-- • Centralized Patient DB – secure data infra for health orgs -->  
 • House of Rotunda – fashion-tech fusion w/ algorithmic sizing  
 • Shadow Work Systems – trauma-aware design meets tech
 
 🎧 Coded in silence, launched to deep house + lofi opera.
 
 📍 Based in Johannesburg • Building futures in silence, launching in power for a regenerative future.
-## Hi there 👋
+
 
 <!--
 **Sir-Poeksie/Sir-Poeksie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+• Centralized Patient DB – secure data infra for health orgs  
+## Hi there 👋
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
