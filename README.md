@@ -7,8 +7,8 @@ Bridging code & consciousness through human-first, creative soul-aware systems f
 • 🌐 Web & Mobile Dev (React, Next.js, React Native, Flutter)  
 • 🤖 MLOps & AI Integration (Python, TensorFlow, Scikit-Learn, Hugging Face)  
 • 🧪 Software Testing (PyTest, Postman, Selenium, Unit/Integration/E2E)  
-• 🎨 UX/UI Alchemy (Figma, Tailwind, Framer Motion, Accessibility-first Design)  
-• ☁️ Cloud & DevOps (AWS, GCP, Docker, CI/CD, GitHub Actions)
+• 🎨 UX/UI Alchemy (Figma, Tailwind, Accessibility-first Design)  
+• ☁️ Cloud & DevOps (AWS, Docker, CI/CD, GitHub Actions)
 
 💻 Projects:  
 • NIAP App – Youth Mental Health & AI-powered healing detection  
