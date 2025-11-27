@@ -1,4 +1,4 @@
-🔮 Mpumelelo Nxazonke
+# 🔮 Mpumelelo Nxazonke
 **Software Development Engineer in Test (SDET) | QA Automation Specialist | Full-Stack Developer (Javascript, Node, React, Python)**
 
 Building scalable, testable, production-ready, human-centered tech ecosystems that blend engineering precision, AI insight, and healing-aware design.
@@ -6,51 +6,51 @@ Building scalable, testable, production-ready, human-centered tech ecosystems th
 Focused on scalable Fullstack systems, **automation engineering**, **CI/CD pipelines**, **QA governance**, **secure full-stack architecture**, and **community health technologies** that uplift people where they live, heal, and connect.
 
 
-🚀 Core Engineering Focus
+## 🚀 Core Engineering Focus
 
-🧪 SDET & QA Automation
+**🧪 SDET & QA Automation**
 Jest · PyTest · Postman · Cypress · Selenium (learning)
 Unit · Integration · E2E · Performance Testing · Test Strategy
 
-🌐 Full-Stack & API Engineering
-React · Next.js · React Native
+**🌐 Full-Stack & API Engineering**
+React · Next.js 
 Node.js · FastAPI · Express
 RESTful APIs · Microservices
 
-🤖 AI & Data Systems
+**🤖 AI & Data Systems**
 Python · Pandas · TensorFlow · Scikit-Learn
 LangChain · Hugging Face · Data Pipelines
 
-🎨 UX/UI & Human-Centered Design
+**🎨 UX/UI & Human-Centered Design**
 Figma · Tailwind · Accessible, minimalistic systems
 Design tuned for clarity, empowerment & emotional safety
 
-☁️ Cloud & DevOps
-AWS (Foundational) · GCP Analytics (In Progress)
-Docker · GitHub Actions · CI/CD Pipelines
+**☁️ Cloud & DevOps**
+AWS (Foundational) · Docker · GitHub Actions · CI/CD Pipelines
 
-🧿 What I'm Currently Building
+## 🧿 What I'm Currently Building
 - Fullstack End-to-End Applications
 - Building enterprise-grade SDET case studies  
 - Completing Google Data Analytics + Google UX Design  
 - Advancing Python, Test Automation, and data systems  
 - Preparing for ISTQB Foundation certification  
 
-🌍 Philosophy
+## 🌍 Philosophy
 
 Tech is not just systems — it’s identity infrastructure.
 I build tools that restore dignity, support healing journeys, and make complexity feel human.
 
-🎧 Energy & Workflow
+## 🎧 Energy & Workflow
 
 Coded in silence.
 Tested in focus.
 Launched to deep house & lofi opera.
 
-📍 Johannesburg, South Africa
-🖤 Building quietly. Releasing loudly.
-🌐 Portfolio: **Sir-Poeksie.github.io**  
-🔗 LinkedIn: **linkedin.com/in/mtnxazonke**
+📍 Johannesburg, South Africa <br/>
+🖤 Building quietly. Releasing loudly.<br/>
+🌐 **Portfolio:** https://Sir-Poeksie.github.io <br/>
+🔗 **LinkedIn:** https://linkedin.com/in/mtnxazonke <br/>
+
 <!--
 # 🔮 Tech Alchemist | Full-Stack Engineer | AI x Healing Architect
 
