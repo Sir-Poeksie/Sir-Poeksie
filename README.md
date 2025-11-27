@@ -1,4 +1,4 @@
-# 🔮 Mpumelelo Nxazonke
+# 🔮 Mpumelelo Theophilas "Sir Poeksie" Nxazonke<br/>
 **Software Development Engineer in Test (SDET) | QA Automation Specialist | Full-Stack Developer (Javascript, Node, React, Python)**
 
 Building scalable, testable, production-ready, human-centered tech ecosystems that blend engineering precision, AI insight, and healing-aware design.
