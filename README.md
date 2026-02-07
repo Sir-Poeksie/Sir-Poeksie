@@ -9,11 +9,11 @@ Focused on scalable Fullstack systems, **automation engineering**, **CI/CD pipel
 ## 🚀 Core Engineering Focus
 
 **🧪 SDET & QA Automation**
-Jest · PyTest · Postman · Cypress · Selenium (learning)
+Jest · PyTest · Postman · Playwright · Cypress · Selenium (learning)
 Unit · Integration · E2E · Performance Testing · Test Strategy
 
 **🌐 Full-Stack & API Engineering**
-React · Next.js 
+React · Next.js · 
 Node.js · FastAPI · Express
 RESTful APIs · Microservices
 
@@ -30,8 +30,7 @@ AWS (Foundational) · Docker · GitHub Actions · CI/CD Pipelines
 
 ## 🧿 What I'm Currently Building
 - Fullstack End-to-End Applications
-- Building enterprise-grade SDET case studies  
-- Completing Google Data Analytics + Google UX Design  
+- Building enterprise-grade SDET case studies    
 - Advancing Python, Test Automation, and data systems  
 - Preparing for ISTQB Foundation certification  
 
