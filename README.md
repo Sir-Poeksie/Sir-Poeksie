@@ -58,6 +58,20 @@ Independent system evaluations including:
 
 Demonstrates ability to analyze systems before modifying them.
 
+### Finance Automation Pipeline Case Study
+
+Python-based deterministic data pipeline that:
+
+* Normalizes Excel financial data
+* Extracts VAT transactions
+* Matches invoices against source PDFs
+* Generates audit-ready reports
+* Includes Pytest validation suite
+
+Demonstrates backend workflow orchestration, data normalization, and reproducible processing.
+
+🔗 [Repository Link](https://github.com/Sir-Poeksie/finance_automation_case_study)
+
 ## 🎯 Engineering Focus
 
 * Design testable backend systems
