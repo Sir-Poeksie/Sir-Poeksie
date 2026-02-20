@@ -1,4 +1,64 @@
-# 🔮 Mpumelelo Theophilas "Sir Poeksie" Nxazonke<br/>
+# Mpumelelo Theophilas Nxazonke
+## QA Automation Engineer | SDET | Backend-Focused Developer
+
+I build and test backend-driven web systems with a strong emphasis on automation, CI/CD quality gates, and production safety.
+
+My work focuses on:
+
+* API & backend testing (Pytest, Postman, integration testing)
+* UI & E2E automation (Cypress, Playwright)
+* Risk-based test strategy & documentation
+* CI/CD pipelines with coverage enforcement
+* Secure RBAC & validation-driven architectures
+* Structured defect reporting & traceability
+
+## 🔧 Core Stack
+
+- **Languages:** Python · JavaScript · SQL
+- **Backend:** FastAPI · Node.js · Express
+- **Frontend:** React · Next.js
+- **Testing:** Pytest · Cypress · Jest · Playwright · Postman
+- **DevOps:** GitHub Actions · Docker · CI/CD pipelines
+- **Cloud (Foundational):** AWS
+
+## 📂 Key Projects
+### CleanCity — QA Case Study
+
+Manual → Automation QA lifecycle including:
+
+* Test Plan & RTM
+* Risk-based testing
+* Structured defect reporting
+* Cypress E2E + Jest unit tests
+* CI reporting & coverage artifacts
+
+Demonstrates full-cycle QA ownership.
+
+### BugView — QA-First Backend System (In Progress)
+
+A backend-driven bug tracking system built with:
+
+* RBAC & Auth
+* Domain validation & state transitions
+* Unit + integration tests
+* CI/CD quality gates
+* Structured documentation (SRS, ADRs, Test Strategy)
+
+Focus: backend reliability + automation enforcement.
+
+## 🎯 Engineering Focus
+
+* Design testable backend systems
+* Prevent unsafe merges via CI gating
+* Build traceable, documented workflows
+* Apply automation where it adds value
+* Reduce production risk
+
+📍 South Africa <br/>
+🌐 Portfolio: coming soon<br/>
+🔗 LinkedIn: [Connect Here](https://linkedin.com/in/mtnxazonke)
+
+<!--# 🔮 Mpumelelo Theophilas "Sir Poeksie" Nxazonke<br/>
 **Software Development Engineer in Test (SDET) | QA Automation Specialist | Full-Stack Developer (Javascript, Node, React, Python)**
 
 Building scalable, testable, production-ready, human-centered tech ecosystems that blend engineering precision, AI insight, and healing-aware design.
