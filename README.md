@@ -46,6 +46,18 @@ A backend-driven bug tracking system built with:
 
 Focus: backend reliability + automation enforcement.
 
+### UX Black-Box Reviews
+
+Independent system evaluations including:
+
+* Functional behavior assessment
+* Navigation & state analysis
+* Usability risk identification
+* Error-handling evaluation
+* Structured findings & recommendations
+
+Demonstrates ability to analyze systems before modifying them.
+
 ## 🎯 Engineering Focus
 
 * Design testable backend systems
